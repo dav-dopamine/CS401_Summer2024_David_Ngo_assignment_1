@@ -1,0 +1,67 @@
+Java Calculator Assignment 1 Test Cases
+
+Test Case 1: Addition
+Input:
+First Number: 5
+Second Number: 3
+Operation: Addition (1)
+Expected Output:
+Result: 5 + 3 = 8
+Observations:
+The calculator correctly adds the two numbers and displays the result.
+
+Test Case 2: Subtraction
+Input:
+First Number: 10
+Second Number: 4
+Operation: Subtraction (2)
+Expected Output:
+Result: 10 - 4 = 6
+Observations:
+The calculator correctly subtracts the second number from the first and displays the result.
+
+Test Case 3: Multiplication
+Input:
+First Number: 6
+Second Number: 2
+Operation: Multiplication (3)
+Expected Output:
+Result: 6 * 2 = 12
+Observations:
+The calculator correctly multiplies the two numbers and displays the result.
+
+Test Case 4: Division
+Input:
+First Number: 20
+Second Number: 5
+Operation: Division (4)
+Expected Output:
+Result: 20 / 5 = 4
+Observations:
+The calculator correctly divides the first number by the second and displays the result.
+
+Test Case 5: Continue or Exit
+Input:
+User responds "yes" to continue calculations.
+Expected Output:
+Calculator prompts for the first number.
+Calculation proceeds as usual.
+Observations:
+The calculator correctly prompts the user to continue providing numbers for further calculations after displaying the result.
+
+Test Case 5: Continue or Exit
+Input:
+User responds "yes" to continue calculation.
+Expected Output:
+Calculator prompts for the first number.
+Calculation proceeds as usual.
+Observations:
+The calculator correctly prompts the user to continue calculations after displaying the result.
+
+Test Case 6: Continue or Exit
+Input:
+User responds "no" to exit the calculator.
+Expected Output:
+Calculator displays "Goodbye!" message and terminates.
+Observations:
+The calculator correctly exits when the user says no to stop calculations.
